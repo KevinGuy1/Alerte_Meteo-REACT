@@ -1,0 +1,86 @@
+[
+    {
+            "alerts": [
+                {
+                    "description": "French(fr-FR): Des phénomènes habituels dans la région mais occasionnellement et localement dangereux sont prévus (exemple : mistral, orage d'été, montée des eaux, fortes vagues submergeant le littoral). Soyez attentifs si vous pratiquez des activités sensibles au risque météorologique ou à proximité d'un rivage ou d'un cours d'eau. Tenez-vous au courant de l'évolution de la situation.\nEnglish(en-GB): Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+                    "effective_local": "2023-05-25T06:01:09",
+                    "effective_utc": "2023-05-25T04:01:09",
+                    "ends_local": "2023-05-26T00:00:00",
+                    "ends_utc": "2023-05-25T22:00:00",
+                    "expires_local": "2023-05-26T00:00:00",
+                    "expires_utc": "2023-05-25T22:00:00",
+                    "onset_local": "2023-05-25T06:01:09",
+                    "onset_utc": "2023-05-25T04:01:09",
+                    "regions": [
+                        "Gironde,FR"
+                    ],
+                    "severity": "Advisory",
+                    "title": "Thunderstorms",
+                    "uri": "https://meteoalarm.org?geocode=EMMA_ID:FR014"
+                }
+            ],
+            "city_name": "Libourne",
+            "country_code": "FR",
+            "lat": 44.91667,
+            "lon": -0.23333,
+            "state_code": "75",
+            "timezone": "Europe/Paris"
+        },
+        {
+            "alerts": [
+                {
+                    "description": "French(fr-FR): Des phénomènes habituels dans la région mais occasionnellement et localement dangereux sont prévus (exemple : mistral, orage d'été, montée des eaux, fortes vagues submergeant le littoral). Soyez attentifs si vous pratiquez des activités sensibles au risque météorologique ou à proximité d'un rivage ou d'un cours d'eau. Tenez-vous au courant de l'évolution de la situation.\nEnglish(en-GB): Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+                    "effective_local": "2023-05-25T06:01:09",
+                    "effective_utc": "2023-05-25T04:01:09",
+                    "ends_local": "2023-05-26T00:00:00",
+                    "ends_utc": "2023-05-25T22:00:00",
+                    "expires_local": "2023-05-26T00:00:00",
+                    "expires_utc": "2023-05-25T22:00:00",
+                    "onset_local": "2023-05-25T06:01:09",
+                    "onset_utc": "2023-05-25T04:01:09",
+                    "regions": [
+                        "Gironde,FR"
+                    ],
+                    "severity": "Advisory",
+                    "title": "Thunderstorms",
+                    "uri": "https://meteoalarm.org?geocode=EMMA_ID:FR014"
+                }
+            ],
+            "city_name": "Libourne",
+            "country_code": "FR",
+            "lat": 44.91667,
+            "lon": -0.23333,
+            "state_code": "75",
+            "timezone": "Europe/Paris"
+        },
+        {
+            "alerts": [
+                {
+                    "description": "French(fr-FR): Des phénomènes habituels dans la région mais occasionnellement et localement dangereux sont prévus (exemple : mistral, orage d'été, montée des eaux, fortes vagues submergeant le littoral). Soyez attentifs si vous pratiquez des activités sensibles au risque météorologique ou à proximité d'un rivage ou d'un cours d'eau. Tenez-vous au courant de l'évolution de la situation.\nEnglish(en-GB): Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+                    "effective_local": "2023-05-25T06:01:09",
+                    "effective_utc": "2023-05-25T04:01:09",
+                    "ends_local": "2023-05-26T00:00:00",
+                    "ends_utc": "2023-05-25T22:00:00",
+                    "expires_local": "2023-05-26T00:00:00",
+                    "expires_utc": "2023-05-25T22:00:00",
+                    "onset_local": "2023-05-25T06:01:09",
+                    "onset_utc": "2023-05-25T04:01:09",
+                    "regions": [
+                        "Gironde,FR"
+                    ],
+                    "severity": "Advisory",
+                    "title": "Thunderstorms",
+                    "uri": "https://meteoalarm.org?geocode=EMMA_ID:FR014"
+                }
+            ],
+            "city_name": "Libourne",
+            "country_code": "FR",
+            "lat": 44.91667,
+            "lon": -0.23333,
+            "state_code": "75",
+            "timezone": "Europe/Paris"
+        }
+]
+    
+
+
